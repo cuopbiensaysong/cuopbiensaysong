@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tien-th
+- 👋 Hi, I’m Tien
 - 👀 I’m interested in medical AI and Reinforcement Learning 
 - 📫 gmail: tienhuu060102@gmail.com
 
